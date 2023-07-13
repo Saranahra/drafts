@@ -1,7 +1,8 @@
 # Aprendendo Python
 
 **Lógica de Programação**
-**Passo a passo de solução do desafio
+
+**Passo a passo de solução do desafio**
 
 - Passo 0: Entender o desafio que você quer resoler.
 
