@@ -54,7 +54,7 @@ tabela_produtos = tabela_produtos[["Quantidade Vendida", "Preco Unitario"]].sort
 display(tabela_produtos)
 ```
 
-- Pasos 5: Calcular o produto que mais faturou (em faturamento).
+- Passo 5: Calcular o produto que mais faturou (em faturamento).
 Criar uma nova coluna de Quantidade Vendida x Preco Unitario:
 
 ``` python 
